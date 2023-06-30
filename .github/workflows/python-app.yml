@@ -20,6 +20,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests    
-        
+
       - name: Run tests
-        run: python -m unittest discover  # Replace with your tests execution command
+        run: python githubactions/test_website.py  # Replace with your tests execution command
