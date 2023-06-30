@@ -6,7 +6,7 @@ def check_url_accessibility(url):
         response.raise_for_status()
         print(f"{url} is accessible (Status Code: {response.status_code})")
     except requests.exceptions.RequestException as e:
-        print(f"{url} is not accessible ({str(e)})")
+        print(f"
 
 def main():
     urls = [
