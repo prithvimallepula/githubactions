@@ -2,9 +2,14 @@ pipeline {
   agent any
 
   stages {
-    stage('Hello') {
+    stage('Make Request') {
       steps {
-        echo 'Hello, World!'
+        script {
+          def response = httpRequest "https://www.pinknoiseplaylisting.com"
+          def statusCode = response.status
+
+          echo "Status Code: ${statusCode}"
+        }
       }
     }
   }
