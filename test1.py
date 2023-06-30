@@ -1,3 +1,1 @@
-print("Hey is this working?")
-
-print (1+2)
+print("Hey is this working?
