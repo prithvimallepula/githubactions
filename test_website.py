@@ -19,7 +19,8 @@ def main():
         "https://pinknoiseplaylisting.com/next-steps",
         "https://docs.google.com/forms/u/1/d/1atqmfm-lxYGnIuMaUpsmdlcczEFV0_1WmQucKxj5KxM/edit?ts=63d81540",
         "https://docs.google.com/forms/u/1/d/1rV8M82qiEv6ZpCkcFW27_ELYE-o5XkG8CZ0d_uAqdx0/edit?usp=forms_home&ths=true",
-        "https://pinknoiseplaylisting.com/track-compatibility/1lRtH4FszTrwwlK5gTSbXO"
+        "https://pinknoiseplaylisting.com/track-compatibility/1lRtH4FszTrwwlK5gTSbXO",
+        "https://docs.google.com/forms/d/1UvVfsqPG9tercAGXLWir2yEEJDqaHMI6YpKn-ki3ohQ/prefill"
         # Add more URLs to test
     ]
 
