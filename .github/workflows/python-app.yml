@@ -1,7 +1,7 @@
 name: Build and Test Python File
 
 on:
-  pull:
+  pull_request:
     branches:
       - main  # Change to your branch name if necessary
 
