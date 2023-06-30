@@ -18,5 +18,8 @@ jobs:
         with:
           python-version: "3.11" # Replace with your desired Python version
 
+      - name: Install dependencies
+        run: pip install requests    
+        
       - name: Run tests
         run: python -m unittest discover  # Replace with your tests execution command
