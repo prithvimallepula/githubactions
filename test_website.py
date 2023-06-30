@@ -14,7 +14,8 @@ def main():
         "https://pinknoiseplaylisting.com/how-it-works",
         "https://pinknoiseplaylisting.com/for-curators",
         "https://pinknoiseplaylisting.com/contact",
-        "https://pinknoiseplaylisting.com/album-art-generator"
+        "https://pinknoiseplaylisting.com/album-art-generator",
+        "https://pinknoiseplaylisting.com/album"
         # Add more URLs to test
     ]
 
