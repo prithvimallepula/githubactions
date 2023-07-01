@@ -25,6 +25,5 @@ def main():
 
     for url in urls:
         check_url_accessibility(url)
-
-if __name__ == "__main__":
-    main()
+        
+main()
