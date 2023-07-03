@@ -33,7 +33,7 @@ def checkURLAccessibility(url) {
     def response = httpRequest(url: url, httpMode: 'HEAD')
     def statusCode = response.status
 
-    echo "${url} is accessible (Status Code: ${statusCode})"
+    echo "This code is being read from Git. Also, ${url} is accessible (Status Code: ${statusCode})"
   } catch (Exception e) {
     echo "${url} FAILED"
   }

@@ -1,3 +1,12 @@
 He
+<<<<<<< HEAD
 adfa:wq!
 `y
+=======
+ad`y
+
+
+chaneg
+Hey!
+
+>>>>>>> b6d1eb033bec9d855c0c02976005746438d60e43

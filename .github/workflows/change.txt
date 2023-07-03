@@ -1,11 +1,4 @@
-change.txt
-Change
-Chanmge
-change
-Change
-change
-changhe
-change
-change
-change
-change
+
+
+
+ssh -i /Users/prithvimallepula/Desktop/PythonPratice/githubactions/jenkins.pem ec2-user@ec2-35-174-5-173.compute-1.amazonaws.com
