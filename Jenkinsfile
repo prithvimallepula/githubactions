@@ -34,6 +34,7 @@ def checkURLAccessibility(url) {
     def statusCode = response.status
 
     echo "${url} is accessible (Status Code: ${statusCode})"
+    echo "This is reading from Git"
   } catch (Exception e) {
     echo "${url} FAILED"
   }
